@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.divPel{
+  margin-right: 2%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.divPel p{
+  height: 44px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.divPel img{
+  margin-top: 10px;
+  width: 225px;
+  height: 225px;
+}
+
+.divPel a{
+  text-decoration: none;
+}
+
+.divListPel{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
+
+form > a{
+  margin-left: 1rem;
+}
