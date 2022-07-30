@@ -23,6 +23,9 @@ export default function Menu(){
                         <li className="nav-item">
                             <NavLink to="/peliculas/Crear" className="nav-link">Crear Peliculas</NavLink>
                         </li>
+                        <li className="nav-item">
+                            <NavLink to="/" className="nav-link">Prueba</NavLink>
+                        </li>
                     </ul>
                 </div>
             </div>
